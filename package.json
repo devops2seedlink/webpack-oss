@@ -1,7 +1,7 @@
 {
-    "name": "webpack-oss",
+    "name": "seedlink-webpack-oss",
     "version": "1.0.0",
-    "description": "An automatic upload plug-in for AliOSS",
+    "description": "Enhance based on ",
     "main": "index.js",
     "directories": {
         "test": "test"
@@ -11,19 +11,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/staven630/webpack-oss.git"
+        "url": "https://github.com/devops2seedlink/webpack-oss.git"
     },
     "author": {
-        "name": "staven"
+        "name": "Seedlink Devops"
     },
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/staven630/webpack-oss/issues"
-    },
-    "homepage": "https://github.com/staven630/webpack-oss#readme",
-    "readmeFilename": "README.md",
-    "_id": "webpack-oss@1.0.0",
-    "_from": "webpack-oss@1.0.0",
+    "homepage": "https://github.com/devops2seedlink/webpack-oss",
+    "_id": "seedlink-webpack-oss@1.0.0",
+    "_from": "seedlink-webpack-oss@1.0.0",
     "dependencies": {
         "address": "^1.0.1",
         "ali-oss": "^4.8.0",
